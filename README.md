@@ -3,6 +3,8 @@
 
 Check out the talk that goes with the library, [Building a Better Design Toolkit](https://www.youtube.com/watch?v=Ie-gqwSHQr0&t=2s)
 
+This is a fork of the [original Elm UI](https://github.com/mdgriffith/elm-ui) intended to support more decorations such as filters and complex gradients.  It may not be in line with the original vision of the library.
+
 # A New Language for Layout and Interface
 
 CSS and HTML are actually quite difficult to use when you're trying to do the layout and styling of a web page.
